@@ -1,0 +1,14 @@
+item:
+  material: 'cod of material/skull'
+  name: '&eGerador de entidades'
+  lore:
+    - ''
+    - '&f Tipo: &7Vaca&f.'
+    - '&f Stack: &7{stack}'
+    - ''
+    - '&f Drops armazenados: &c{drops_stored}'
+    - ''
+    - '&f Upgrades:'
+    - '&f  > Drops gerados por mob morto: &b{drops_round}'
+    - '&f  > Velocidade de geração: &b{speed}s'
+    - ''
